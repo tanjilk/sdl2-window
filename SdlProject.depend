@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599216277 source:/home/tanjil/Documents/Programming/c++ projects/myprojects/SdlProject/gamesdl.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<iostream>
+
